@@ -1,0 +1,1 @@
+cmd_/home/bakul/Desktop/bakul_practice/ch_02/hello.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/bakul/Desktop/bakul_practice/ch_02/hello.ko /home/bakul/Desktop/bakul_practice/ch_02/hello.o /home/bakul/Desktop/bakul_practice/ch_02/hello.mod.o ;  true
