@@ -1,0 +1,1 @@
+cmd_/home/bakul/Desktop/bakul_practice/Device-driver-programing/ch_03/chardev.mod := { echo  /home/bakul/Desktop/bakul_practice/Device-driver-programing/ch_03/chardev.o; echo; } > /home/bakul/Desktop/bakul_practice/Device-driver-programing/ch_03/chardev.mod
